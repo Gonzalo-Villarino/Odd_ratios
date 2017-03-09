@@ -1,0 +1,1 @@
+x	y	ylo	yhiMexico	1.41	1.19	1.67El Salvador	2.03	1.21	3.41Guatemala	1.88	0.87	4.06Honduras	2.04	1.02	4.05Cuba	0.56	0.31	1.02Dominican Republic	0.89	0.47	1.68Puerto Rico	1.28	0.78	2.12Colombia	1.37	0.56	3.32Other Central America	1.62	0.57	4.6Other South America	1.04	0.64	1.69
